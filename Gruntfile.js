@@ -12,7 +12,7 @@ module.exports = function(grunt){
             }
         },
         cssmin:{
-            'dist/index.css':'index.css'
+            'dist/notebook.css':'notebook.css'
         },
         uglify:{
             'dist/notebook.js':'notebook.js',
